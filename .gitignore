@@ -1,0 +1,5 @@
+# remove phpStorm pathing
+.idea
+
+# remove composer paths
+vendor
