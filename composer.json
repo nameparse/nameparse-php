@@ -1,5 +1,5 @@
 {
-    "name": "nameparse/nameparse-php-sdk",
+    "name": "nameparse/nameparse-php",
     "type": "library",
     "description": "NameParse is a name parsing service, this is the php sdk",
     "keywords": [
